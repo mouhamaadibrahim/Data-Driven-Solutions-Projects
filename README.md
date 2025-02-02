@@ -1,7 +1,7 @@
 # Data-Driven Solutions Projects by Mouhamad Ibrahim, PhD
 
 Welcome to my Data-Driven Solutions Projects repository! 🧠 I am a Certified and Top-Ranked Data Analyst with over 5 years of experience in research and higher education, specializing in transforming complex data into actionable insights through statistical analysis, data visualization, and modeling.  
-This repository highlights projects focused on business intelligence and data analytics, applying advanced techniques using tools like **SQL**, **Excel**, **R**, **Power BI**, and **Tableau** as I transition into industry roles.  
+This repository highlights projects focused on business intelligence and data analytics, applying advanced techniques using tools like **SQL**, **Excel**, **R**, **Power BI**, and **Tableau** to tackle real-world challenges across industries.  
 These projects include personal explorations, capstone projects, and competitive data challenges, all aimed at delivering impactful business solutions and insights.
 
 ## 💻 Technical Skills
@@ -43,7 +43,7 @@ These projects include personal explorations, capstone projects, and competitive
 
 ### 📄 Professional Summary
 Certified and Top-Ranked Data Analyst with 5+ years of experience transforming complex data into actionable insights through statistical analysis, data visualization, and modeling. Skilled in leveraging tools like SQL, R, Excel, Tableau, and Power BI to deliver data-driven solutions that elevate business intelligence and support decision-making.  
-My work spans actionable business intelligence solutions, impactful data challenges, and effective data-driven decision-making processes in research, higher education, and business settings as I transition into industry roles.
+My work spans actionable business intelligence solutions, impactful data challenges, and effective data-driven decision-making processes in research, higher education, and business settings, applying analytical expertise to solve cross-industry challenges.
 
 ### 🚀 Core Competencies
 - **Data Analysis & Visualization:** SQL, Excel, R, Power BI, Tableau
